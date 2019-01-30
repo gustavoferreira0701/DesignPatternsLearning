@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DesignPatternsLearning.Singleton\DesignPatternsLearning.Singleton.csproj" />
     <ProjectReference Include="..\DesignPatternsLearning.Strategy\DesignPatternsLearning.Strategy.csproj" />
   </ItemGroup>
 
